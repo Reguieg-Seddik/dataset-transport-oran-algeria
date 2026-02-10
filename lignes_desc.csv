@@ -1,0 +1,29 @@
+ligne_id,ligne_nom,ligne_depart,ligne_arrivee,ville,cout
+1,3,Lycé El Hayat,Kara,ORAN,20
+2,41,Sidi El Bachir,HLM Gambetta,ORAN,30
+3,B,Les Amandiers,Hai seddikia,ORAN,20
+5,C,Belgaid,Palais Des Sports,ORAN,20
+6,39,Palais Des sports,Chtaibou,ORAN,30
+7,49,Agence Bahia,Mdina Jadida,ORAN,20
+8,53,Cité 4400 logement Belgaid,Chakouri,ORAN,20
+9,51,Palais Des Sports,Hai Sabah,ORAN,20
+12,38,Agence Bahia,Hai Rabah,ORAN,20
+13,101,CNL Millenium,Place Valero,ORAN,20
+15,11,Place Valero,Hai Sabah,ORAN,20
+16,S,Palais des sports,Université Belgaid,ORAN,20
+17,P1,Lycé Lotfi,Université Belgaid,ORAN,20
+19,28,Palais des sports,Ain El Beida Centre ,ORAN,20
+21,17,Place d'armes,Coca,ORAN,20
+22,4G,Yaghmoracen,Usto,ORAN,20
+23,2,Palais des sports,Hassi Ameur,ORAN,30
+24,18,AADL Ain El Beida ,Sidi El Houari,ORAN,20
+25,37,Place d'armes,El Hassi,ORAN,20
+26,G1,Agence Bahia,4400 longement Belgaid,ORAN,20
+27,29,Barki,Lycé hayat,ORAN,20
+28,G3,Lycé El Hayat,Hasnaoui,ORAN,20
+29,H,Hai Benarba (Rocher),Canastel,ORAN,20
+30,34,Cité 200 Logements,Place Valero,ORAN,20
+31,103,Agence Bahia,Université Belgaid,ORAN,20
+33,54,El Hamri,Cité 4400 longement Belgaid,ORAN,20
+34,23,Agence Bahia,Place Keber,ORAN,20
+36,Tramway,Gare routière sidi-Maarouf,Es-Senia Terminus,ORAN,40
